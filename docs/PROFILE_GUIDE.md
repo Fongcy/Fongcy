@@ -1,23 +1,24 @@
-# 主页维护指南
+# 木白的小世界 · GitHub 主页维护
 
-本仓库是 [木白（Mubai）的 GitHub 个人主页](https://github.com/Fongcy) 展示入口。GitHub 用户名保留为 `Fongcy`；个人品牌展示为「木白 · Mubai」。首页布局由仓库根目录的 `README.md` 管理。
+GitHub 用户名 `Fongcy` 不变；个人展示品牌为「木白 · Mubai」。
 
-## 结构
+## 设计与内容
+- 暖纸色、草木绿、手绘边线和留白，不堆砌技术徽章。
+- 首屏先介绍人，再展示作品；文字真实、轻松、有辨识度。
+- README 中始终保留可访问的文字内容，视觉图片不是信息的唯一载体。
+- Worklog 当前是 v0.2 的界面原型：没有接入真实 AI 模型或后端，主要使用浏览器本地存储。
+- 私有仓库里的截图和内部资料未经确认不复制到这个公开主页。
 
-- `README.md`：品牌介绍、当前作品、兴趣与工具箱。
-- `assets/hero-light.svg`：浅色主题横幅。
-- `assets/hero-dark.svg`：深色主题横幅。
+## 文件
+- `README.md`：实际主页
+- `assets/little-corner-light.svg` / `assets/little-corner-dark.svg`：暖色插画 Banner
+- `assets/worklog-journey-light.svg` / `assets/worklog-journey-dark.svg`：原创功能流程示意，**不是实际界面截图**
+- `assets/hero-light.svg` / `assets/hero-dark.svg`：保留的上一版视觉素材
 
-使用 GitHub 支持的 `<picture>` 和 `prefers-color-scheme`，展示时自动选择横幅；静态 SVG 不含脚本、远程字体或外部资源。徽章为外部 Shields 图片，若不可用不会影响正文阅读。
+用 GitHub `picture` 和 `prefers-color-scheme` 切换深浅色，SVG 不使用远程资源或脚本。
 
-## 更新原则
-
-1. **以事实为准。** 工作状态、版本、演示链接与技术能力，以项目实际 README / 实现为准；上线原型不等于上线完整后端或模型。
-2. **保护隐私。** 不添加私有仓库地址、内部任务、令牌、私人邮箱等信息，除非确定要公开。
-3. **先改内容再改装饰。** 重要信息应以 Markdown 正文呈现，不只放在图片里；图片需要保留 `alt` 文本。
-4. **检查双主题。** 合并前在 GitHub 的浅色、深色模式与窄屏下预览横幅、文本和链接。
-5. **避免数据装饰。** 不使用容易失效的访客计数、动态排名、未验证的 GitHub 统计等。
-
-## 更新工作流
-
-在独立分支调整 `README.md` 或 SVG，发起中文 PR，检查渲染后合并到 `main`。GitHub 将自动更新个人主页。
+## 发布前检查
+1. 确认公开信息、项目当前版本、演示链接与能力边界。
+2. 在 GitHub 深色、浅色和手机宽度实际检查文字、横幅、流程图。
+3. 将来若补充真实截图，先从可公开演示环境获取，检查是否含敏感数据。
+4. 使用独立分支和中文 PR 审阅，合并后生效。

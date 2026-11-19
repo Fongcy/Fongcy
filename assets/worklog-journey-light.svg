@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="254" viewBox="0 0 1100 254" role="img" aria-labelledby="title desc">
+<title id="title">Worklog — Record, Check, Review</title>
+<desc id="desc">A conceptual workflow sketch, not a screenshot.</desc>
+<rect x="1.5" y="1.5" width="1097" height="251" rx="22" fill="#F3ECDD" stroke="#D7DEC9" stroke-width="3"/>
+<text x="40" y="39" fill="#647765" font-size="13" font-weight="700" letter-spacing="2" font-family="Inter,Arial,sans-serif">WORKLOG / A SIMPLE FLOW</text>
+<text x="1060" y="39" text-anchor="end" fill="#647765" font-size="12" font-family="Inter,Arial,sans-serif">a sketch, not a screenshot</text>
+<g><rect x="40" y="61" width="300" height="159" rx="16" fill="#FFFCF4" stroke="#90AC92" stroke-width="1.8"/>
+<rect x="60" y="79" width="43" height="43" rx="12" fill="#7FA185"/><text x="81" y="107" text-anchor="middle" fill="#27392F" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">01</text>
+<text x="60" y="159" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700">Record</text>
+<text x="60" y="187" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="17">capture the day</text>
+<path d="M60 201Q160 205 269 201" stroke="#7FA185" stroke-width="4" stroke-linecap="round" fill="none"/></g><path d="M344 139h44m-11 -8 11 8 -11 8" fill="none" stroke="#90AC92" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g><rect x="399" y="61" width="300" height="159" rx="16" fill="#FFFCF4" stroke="#90AC92" stroke-width="1.8"/>
+<rect x="419" y="79" width="43" height="43" rx="12" fill="#EFC46C"/><text x="440" y="107" text-anchor="middle" fill="#27392F" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">02</text>
+<text x="419" y="159" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700">Check</text>
+<text x="419" y="187" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="17">trace the sources</text>
+<path d="M419 201Q519 205 628 201" stroke="#EFC46C" stroke-width="4" stroke-linecap="round" fill="none"/></g><path d="M703 139h44m-11 -8 11 8 -11 8" fill="none" stroke="#90AC92" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g><rect x="758" y="61" width="300" height="159" rx="16" fill="#FFFCF4" stroke="#90AC92" stroke-width="1.8"/>
+<rect x="778" y="79" width="43" height="43" rx="12" fill="#C9886A"/><text x="799" y="107" text-anchor="middle" fill="#27392F" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">03</text>
+<text x="778" y="159" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700">Review</text>
+<text x="778" y="187" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="17">look back clearly</text>
+<path d="M778 201Q878 205 987 201" stroke="#C9886A" stroke-width="4" stroke-linecap="round" fill="none"/></g>
+</svg>
