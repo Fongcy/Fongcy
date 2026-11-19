@@ -12,8 +12,8 @@
 <text x="80" y="75" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3.2">HI, I'M</text>
 <text x="72" y="206" fill="#314438" font-family="Trebuchet MS,Inter,Arial,sans-serif" font-size="113" font-weight="700" letter-spacing="-6">mubai<tspan fill="#C9886A">.</tspan></text>
 <path d="M80 219Q270 213 473 219" fill="none" stroke="#EFC46C" stroke-width="7" stroke-linecap="round"/>
-<text x="80" y="279" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="26">code, ideas &amp; a little everyday magic.</text>
-<text x="82" y="315" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="18">a small space for things I'm curious about</text>
+<text x="80" y="279" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="26">agents, ideas &amp; better ways to build.</text>
+<text x="82" y="315" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="18">making room for more meaningful work</text>
 <rect x="81" y="350" width="263" height="39" rx="19" fill="#DFEADC" stroke="#90AC92" stroke-width="1.2"/>
 <path d="M107 357L111 368L122 372L111 376L107 386L102 376L91 372L102 368Z" fill="#C9886A"/>
 <text x="133" y="375" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="650">stay curious, grow slowly</text>
@@ -23,9 +23,9 @@
 <path d="M812 116H1086" stroke="#90AC92" stroke-dasharray="5 8" stroke-width="1.5"/>
 <circle cx="813" cy="137" r="5" fill="#C9886A"/><circle cx="813" cy="185" r="5" fill="#EFC46C"/>
 <text x="834" y="140" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1.8">LITTLE NOTES</text>
-<text x="834" y="197" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650">make something small</text>
+<text x="834" y="197" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650">make things together</text>
 <path d="M834 210q110 7 224 0" fill="none" stroke="#EFC46C" stroke-width="5" stroke-linecap="round" opacity=".7"/>
-<text x="834" y="250" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650">learn one new thing</text>
+<text x="834" y="250" fill="#314438" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="650">ship, learn, repeat</text>
 <path d="M834 265q111 5 224 0" fill="none" stroke="#7FA185" stroke-width="3" stroke-linecap="round" opacity=".55"/>
 <text x="835" y="317" fill="#647765" font-family="Inter,Arial,sans-serif" font-size="17">little steps count.  : )</text>
 </g>
