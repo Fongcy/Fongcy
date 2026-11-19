@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title description">
-  <title id="title">Fongcy — Ideas, made useful.</title>
+  <title id="title">Mubai — Ideas, made useful.</title>
   <desc id="description">Minimal editorial banner about AI agents, knowledge systems and useful tools.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -26,15 +26,15 @@
     <path d="M735 29V341" stroke="#D3E1DE" stroke-width="1" stroke-dasharray="3 10"/>
 
     <rect x="68" y="57" width="44" height="44" rx="13" fill="#132A38"/>
-    <path d="M80 87V70H100M80 79H95" fill="none" stroke="#F9FBFA" stroke-width="4" stroke-linecap="square"/>
+    <path d="M80 89V70L90 81L100 70V89" fill="none" stroke="#F9FBFA" stroke-width="4" stroke-linecap="square"/>
     <circle cx="112" cy="59" r="6" fill="#C87539"/>
-    <text x="128" y="85" fill="#405F6A" font-family="Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">FONGCY / PERSONAL LAB</text>
+    <text x="128" y="85" fill="#405F6A" font-family="Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">MUBAI / PERSONAL LAB</text>
 
     <text x="67" y="188" fill="#132A38" font-family="Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="65" font-weight="750" letter-spacing="-2.6">Ideas, made useful.</text>
     <text x="69" y="235" fill="#405F6A" font-family="Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="21" font-weight="450">AI agents / Knowledge systems / Useful tools</text>
 
     <rect x="68" y="289" width="38" height="4" rx="2" fill="#C87539"/>
-    <text x="123" y="297" fill="#627D83" font-family="Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2.1">FROM CURIOSITY TO CRAFT</text>
+    <text x="123" y="297" fill="#627D83" font-family="Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2.1">STAY CURIOUS, GROW SLOWLY</text>
 
     <g filter="url(#softShadow)">
       <rect x="772" y="53" width="362" height="264" rx="20" fill="#FFFFFF" stroke="#C6D8D4" stroke-width="1.3"/>

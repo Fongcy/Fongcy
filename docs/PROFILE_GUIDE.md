@@ -1,6 +1,6 @@
 # 主页维护指南
 
-本仓库是 [Fongcy 的 GitHub 个人主页](https://github.com/Fongcy) 展示入口。首页布局由仓库根目录的 `README.md` 管理。
+本仓库是 [木白（Mubai）的 GitHub 个人主页](https://github.com/Fongcy) 展示入口。GitHub 用户名保留为 `Fongcy`；个人品牌展示为「木白 · Mubai」。首页布局由仓库根目录的 `README.md` 管理。
 
 ## 结构
 
