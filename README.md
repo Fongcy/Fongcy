@@ -1,21 +1,21 @@
 <!--
-  方寸 · Fongcy — GitHub Profile
+  木白 · Mubai — GitHub Profile
   主页内容坚持：真实、克制、可维护。视觉资源位于 assets/。
 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <img src="./assets/hero-light.svg" width="100%" alt="Fongcy — Ideas, made useful. AI agents, knowledge systems and useful tools." />
+    <img src="./assets/hero-light.svg" width="100%" alt="Mubai — Ideas, made useful. AI agents, knowledge systems and useful tools." />
   </picture>
 </div>
 
 <div align="center">
 
-### 方寸 · Fongcy
+### 木白 · Mubai
 
-**把复杂留给系统，把清晰交给人。**
+**保持好奇，慢慢生长。**
 
-在 AI、知识和软件工程的交汇处，做有判断力的产品，也做真正好用的小工具。
+喜欢写代码，也喜欢把想法慢慢做成真正好用的小工具。
 
 [GitHub](https://github.com/Fongcy) · [Worklog 在线演示](https://worklog.nuoya.icu/)
 
@@ -25,7 +25,7 @@
 
 ## 01 / 关于我 · About
 
-你好，我是 **Fongcy**。喜欢研究如何把模糊的问题变成清晰的流程，再把这些流程打磨成简单、可靠的工具。
+你好，我是 **木白（Mubai）**。喜欢研究如何把模糊的问题变成清晰的流程，再把这些流程打磨成简单、可靠的工具。
 
 我关注的不只是「模型能做什么」，更是 **人在什么时候参与、系统如何给出依据、出错以后如何继续**。从 AI Agent 到个人知识管理，我希望技术最终能减少认知负担，而不是制造新的复杂性。
 
@@ -88,9 +88,9 @@
 ---
 
 <div align="center">
-  <strong>方寸之间，小空间，大信息。</strong>
+  <strong>保持好奇，慢慢生长。</strong>
 
-  <p><sub>Curious about AI-powered products, knowledge systems and the craft of building useful software.</sub></p>
+  <p><sub>Mubai · @Fongcy · Stay curious, grow slowly.</sub></p>
 
   <a href="https://github.com/Fongcy">关注 GitHub</a> · <a href="https://github.com/Fongcy/Fongcy/issues">交流想法</a>
 </div>
