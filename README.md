@@ -8,7 +8,6 @@
   <h3>你好，我是木白。<sub> Mubai</sub></h3>
   <p>热衷于 AI Agent 与新的研发方式。喜欢琢磨上下文工程、Harness 工程和自主智能体，也想让人与 AI 一起把想法更快、更稳地变成作品。</p>
   <p><strong>让 AI 处理繁琐，让人专注创造。</strong></p>
-  <p><strong>保持好奇，慢慢生长。🌱</strong></p>
   <p><a href="https://github.com/Fongcy">GitHub</a> · <a href="https://worklog.nuoya.icu/">看看 Worklog</a></p>
 </div>
 
