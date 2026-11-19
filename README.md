@@ -2,11 +2,12 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/little-corner-dark.svg" />
-    <img src="./assets/little-corner-light.svg" width="100%" alt="mubai. — A warm, hand-drawn little corner for code, ideas and curiosity." />
+    <img src="./assets/little-corner-light.svg" width="100%" alt="mubai. — A warm hand-drawn corner about autonomous agents, creating together and building better software." />
   </picture>
 
   <h3>你好，我是木白。<sub> Mubai</sub></h3>
-  <p>喜欢写代码，尤其热衷于 AI Agent（智能体）：研究模型怎样与工具、流程和人协作，也喜欢把脑袋里的小想法做成真正能用的东西。</p>
+  <p>热衷于 AI Agent 与新的研发方式。喜欢琢磨上下文工程、Harness 工程和自主智能体，也想让人与 AI 一起把想法更快、更稳地变成作品。</p>
+  <p><strong>让 AI 处理繁琐，让人专注创造。</strong></p>
   <p><strong>保持好奇，慢慢生长。🌱</strong></p>
   <p><a href="https://github.com/Fongcy">GitHub</a> · <a href="https://worklog.nuoya.icu/">看看 Worklog</a></p>
 </div>
@@ -15,9 +16,10 @@
 
 ## 🌿 最近在折腾
 
-- **🤖 智能体开发与探索**：特别关注 Agent 工具调用、任务编排、多智能体协作和 Human-in-the-loop——智能体遇到问题时，人能如何接管、修正并让流程继续。
-- **🛠️ 做点实用的小东西**：正在打磨 [Worklog](https://worklog.nuoya.icu/)，希望工作记录不只是写完就忘。
-- **📚 慢慢整理知识**：折腾 Obsidian、RAG 和结构化学习，让学过的东西以后还找得到。
+- **🤖 智能体工程**：钻研上下文工程（Context Engineering）、Harness 工程与自主 Agent，关注长任务执行、工具使用、反馈闭环以及失败后的恢复。
+- **🤝 人与智能体一起开发**：探索人和 Agent 如何在需求、设计、实现、测试与交付中高效协作，让人负责方向和判断，让智能体承担更多具体工作。
+- **🔄 更快、更稳地迭代**：研究 CI/CD、自动化验证、持续反馈与 AI 驱动的快速迭代，尝试新的研发流程，而不只是让 AI 帮忙写代码。
+- **🛠️ 把想法做成产品**：从真实的繁琐任务出发打磨小工具，例如正在迭代的 [Worklog](https://worklog.nuoya.icu/)。
 
 ## ☕ 做出来的小作品
 
@@ -36,31 +38,33 @@
 
 **[→ 在线体验 Worklog](https://worklog.nuoya.icu/)**
 
-<sub>当前是 v0.2 React / TypeScript / Vite 交互原型。数据主要保存在当前浏览器；报告整理使用固定规则演示，尚未接入真实 AI 模型或后端。上图是功能流程示意，并非实际界面截图。</sub>
+<sub>当前是 v0.2 交互原型。数据主要保存在当前浏览器；报告整理使用固定规则演示，尚未接入真实 AI 模型或后端。上图是功能流程示意，并非实际界面截图。</sub>
 
-## ✳️ 我感兴趣的事情
+## ✳️ 我在探索的方向
 
-**AI Agents / Agent Orchestration / Tool Calling / Human-in-the-loop / Knowledge Systems**
+**Context Engineering · Harness Engineering · Autonomous Agents**
 
-智能体是我持续投入精力的技术方向。我关注的不只是一次模型回答，而是一个任务怎样被拆解、怎样调用工具、怎样协作和恢复；以及如何让整个过程**可观察、可干预、可验证**。
+**AI-Native Development · Human-Agent Collaboration · Agentic Workflows**
 
-同时喜欢研究 RAG、知识系统和开发者工具，也会花时间打磨文案、留白与交互细节。
+**CI/CD · Workflow Automation · Continuous Feedback · Rapid Iteration**
 
-## 🧰 手边的工具
+我相信 AI 的价值不只是加快某一个开发步骤，而是重新思考软件如何被构建：如何让智能体承担繁琐、重复的执行工作，让人专注于架构、判断、创造和真正重要的问题。
 
-**🤖 智能体与 LLM · Agent stack（持续学习与实践）**
+## 🧰 我的技术探索 · Engineering Focus
 
-`AI Agent` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `Human-in-the-loop`
+**🤖 Agent Engineering**
 
-**💻 应用与服务开发**
+`Context Engineering` · `Harness Engineering` · `Autonomous Agents` · `Tool Use` · `Evaluation & Feedback`
 
-`Python` · `FastAPI` · `TypeScript` · `React` · `Git` · `Docker`
+**🤝 AI-Native Development**
 
-**📚 数据与知识工具**
+`Human-Agent Collaboration` · `Agentic Workflows` · `Multi-Agent Collaboration` · `Rapid Iteration`
 
-`Redis` · `MongoDB` · `RAG` · `Obsidian` · `Markdown`
+**🔄 Engineering & Delivery**
 
-<sub>这是正在使用、学习或探索的技术地图，不代表每项都已应用到公开作品中，也不是熟练程度排名。</sub>
+`CI/CD` · `Automated Testing` · `Observability` · `Continuous Feedback` · `Reliable Delivery`
+
+<sub>这里记录的是持续探索的工程方向，不代表每项能力都已应用到公开作品中。</sub>
 
 ---
 
